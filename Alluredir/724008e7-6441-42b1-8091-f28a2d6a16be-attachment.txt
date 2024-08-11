@@ -1,0 +1,2 @@
+[32mINFO    [0m Test_Login_DDT:Pytest_Login_ORM_DDT.py:16 test_login_params_3 is started
+[32mINFO    [0m Test_Login_DDT:Pytest_Login_ORM_DDT.py:18 Opening browser

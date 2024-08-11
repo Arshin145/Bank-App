@@ -1,0 +1,396 @@
+2024-08-04 16:52:48,696 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 16:52:48,697 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 16:52:48,697 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin
+2024-08-04 16:52:50,056 : INFO :  Test_Login_Params : test_login_params_3 : 20 : Entering Password= admin123
+2024-08-04 16:52:50,900 : INFO :  Test_Login_Params : test_login_params_3 : 22 : clicking on login button
+2024-08-04 16:52:53,278 : INFO :  Test_Login_Params : test_login_params_3 : 24 : Validating login
+2024-08-04 16:53:10,029 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 16:53:10,031 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 16:53:10,031 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin1
+2024-08-04 16:53:10,699 : INFO :  Test_Login_Params : test_login_params_3 : 20 : Entering Password= admin123
+2024-08-04 16:53:10,824 : INFO :  Test_Login_Params : test_login_params_3 : 22 : clicking on login button
+2024-08-04 16:53:12,861 : INFO :  Test_Login_Params : test_login_params_3 : 24 : Validating login
+2024-08-04 16:53:48,695 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 16:53:48,695 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 16:53:48,695 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin
+2024-08-04 16:53:49,479 : INFO :  Test_Login_Params : test_login_params_3 : 20 : Entering Password= admin1231
+2024-08-04 16:53:49,604 : INFO :  Test_Login_Params : test_login_params_3 : 22 : clicking on login button
+2024-08-04 16:53:49,682 : INFO :  Test_Login_Params : test_login_params_3 : 24 : Validating login
+2024-08-04 16:54:59,796 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 16:54:59,796 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 16:54:59,796 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin1
+2024-08-04 16:55:03,086 : INFO :  Test_Login_Params : test_login_params_3 : 20 : Entering Password= admin1231
+2024-08-04 16:55:03,227 : INFO :  Test_Login_Params : test_login_params_3 : 22 : clicking on login button
+2024-08-04 16:55:15,353 : INFO :  Test_Login_Params : test_login_params_3 : 24 : Validating login
+2024-08-04 18:30:22,467 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 14 : test_login_params_3 is started
+2024-08-04 18:30:22,524 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 16 : Opening browser
+2024-08-04 18:30:40,330 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 14 : test_login_params_3 is started
+2024-08-04 18:30:40,330 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 16 : Opening browser
+2024-08-04 18:30:54,811 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 14 : test_login_params_3 is started
+2024-08-04 18:30:54,811 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 16 : Opening browser
+2024-08-04 18:31:07,019 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 14 : test_login_params_3 is started
+2024-08-04 18:31:07,019 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 16 : Opening browser
+2024-08-04 18:31:21,022 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 18:31:21,022 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 18:31:21,022 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin
+2024-08-04 18:31:22,907 : INFO :  Test_Login_Params : test_login_params_3 : 20 : Entering Password= admin123
+2024-08-04 18:31:23,148 : INFO :  Test_Login_Params : test_login_params_3 : 22 : clicking on login button
+2024-08-04 18:31:23,294 : INFO :  Test_Login_Params : test_login_params_3 : 24 : Validating login
+2024-08-04 18:31:44,723 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 18:31:44,723 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 18:31:44,723 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin1
+2024-08-04 18:31:45,402 : INFO :  Test_Login_Params : test_login_params_3 : 20 : Entering Password= admin123
+2024-08-04 18:31:45,500 : INFO :  Test_Login_Params : test_login_params_3 : 22 : clicking on login button
+2024-08-04 18:31:45,567 : INFO :  Test_Login_Params : test_login_params_3 : 24 : Validating login
+2024-08-04 18:32:23,775 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 18:32:23,776 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 18:32:23,776 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin
+2024-08-04 18:32:24,455 : INFO :  Test_Login_Params : test_login_params_3 : 20 : Entering Password= admin1231
+2024-08-04 18:32:24,563 : INFO :  Test_Login_Params : test_login_params_3 : 22 : clicking on login button
+2024-08-04 18:32:24,645 : INFO :  Test_Login_Params : test_login_params_3 : 24 : Validating login
+2024-08-04 18:33:01,898 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 18:33:01,898 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 18:33:01,898 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin1
+2024-08-04 18:33:02,717 : INFO :  Test_Login_Params : test_login_params_3 : 20 : Entering Password= admin1231
+2024-08-04 18:33:02,802 : INFO :  Test_Login_Params : test_login_params_3 : 22 : clicking on login button
+2024-08-04 18:33:02,864 : INFO :  Test_Login_Params : test_login_params_3 : 24 : Validating login
+2024-08-04 18:45:40,767 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 14 : test_login_params_3 is started
+2024-08-04 18:45:40,782 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 16 : Opening browser
+2024-08-04 18:45:58,687 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 14 : test_login_params_3 is started
+2024-08-04 18:45:58,687 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 16 : Opening browser
+2024-08-04 18:46:16,694 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 14 : test_login_params_3 is started
+2024-08-04 18:46:16,695 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 16 : Opening browser
+2024-08-04 18:46:38,462 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 14 : test_login_params_3 is started
+2024-08-04 18:46:38,462 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 16 : Opening browser
+2024-08-04 18:47:00,377 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 18:47:00,377 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 18:47:00,377 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin
+2024-08-04 18:47:01,595 : INFO :  Test_Login_Params : test_login_params_3 : 20 : Entering Password= admin123
+2024-08-04 18:47:01,725 : INFO :  Test_Login_Params : test_login_params_3 : 22 : clicking on login button
+2024-08-04 18:47:01,803 : INFO :  Test_Login_Params : test_login_params_3 : 24 : Validating login
+2024-08-04 18:47:17,569 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 18:47:17,569 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 18:47:17,570 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin1
+2024-08-04 18:47:18,480 : INFO :  Test_Login_Params : test_login_params_3 : 20 : Entering Password= admin123
+2024-08-04 18:47:18,566 : INFO :  Test_Login_Params : test_login_params_3 : 22 : clicking on login button
+2024-08-04 18:47:18,631 : INFO :  Test_Login_Params : test_login_params_3 : 24 : Validating login
+2024-08-04 18:54:56,510 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 14 : test_login_params_3 is started
+2024-08-04 18:54:56,526 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 16 : Opening browser
+2024-08-04 18:55:23,053 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 14 : test_login_params_3 is started
+2024-08-04 18:55:23,053 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 16 : Opening browser
+2024-08-04 18:55:44,846 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 14 : test_login_params_3 is started
+2024-08-04 18:55:44,846 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 16 : Opening browser
+2024-08-04 18:56:05,516 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 14 : test_login_params_3 is started
+2024-08-04 18:56:05,516 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 16 : Opening browser
+2024-08-04 18:56:13,743 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 18:56:13,744 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 18:56:13,744 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin
+2024-08-04 18:56:26,937 : INFO :  Test_Login_Params : test_login_params_3 : 20 : Entering Password= admin123
+2024-08-04 18:56:27,046 : INFO :  Test_Login_Params : test_login_params_3 : 22 : clicking on login button
+2024-08-04 18:56:27,109 : INFO :  Test_Login_Params : test_login_params_3 : 24 : Validating login
+2024-08-04 18:56:56,811 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 18:56:56,811 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 18:56:56,811 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin1
+2024-08-04 18:56:57,646 : INFO :  Test_Login_Params : test_login_params_3 : 20 : Entering Password= admin123
+2024-08-04 18:56:57,756 : INFO :  Test_Login_Params : test_login_params_3 : 22 : clicking on login button
+2024-08-04 18:56:57,834 : INFO :  Test_Login_Params : test_login_params_3 : 24 : Validating login
+2024-08-04 18:57:57,080 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 18:57:57,080 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 18:57:57,080 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin
+2024-08-04 18:58:06,244 : INFO :  Test_Login_Params : test_login_params_3 : 20 : Entering Password= admin1231
+2024-08-04 18:58:06,353 : INFO :  Test_Login_Params : test_login_params_3 : 22 : clicking on login button
+2024-08-04 18:58:06,431 : INFO :  Test_Login_Params : test_login_params_3 : 24 : Validating login
+2024-08-04 18:59:49,439 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 18:59:49,440 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 18:59:49,440 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin1
+2024-08-04 18:59:53,022 : INFO :  Test_Login_Params : test_login_params_3 : 20 : Entering Password= admin1231
+2024-08-04 18:59:53,132 : INFO :  Test_Login_Params : test_login_params_3 : 22 : clicking on login button
+2024-08-04 19:00:07,354 : INFO :  Test_Login_Params : test_login_params_3 : 24 : Validating login
+2024-08-04 19:06:25,663 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 14 : test_login_params_3 is started
+2024-08-04 19:06:25,756 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 16 : Opening browser
+2024-08-04 19:06:45,750 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 14 : test_login_params_3 is started
+2024-08-04 19:06:45,751 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 16 : Opening browser
+2024-08-04 19:07:03,348 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 14 : test_login_params_3 is started
+2024-08-04 19:07:03,348 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 16 : Opening browser
+2024-08-04 19:07:22,366 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 14 : test_login_params_3 is started
+2024-08-04 19:07:22,367 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 16 : Opening browser
+2024-08-04 19:07:29,771 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 19:07:29,771 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 19:07:29,771 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin
+2024-08-04 19:07:36,358 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 19:07:36,358 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 19:07:36,358 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin1
+2024-08-04 19:10:56,692 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 19:10:56,692 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 19:10:56,692 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin
+2024-08-04 19:10:57,472 : INFO :  Test_Login_Params : test_login_params_3 : 20 : Entering Password= admin123
+2024-08-04 19:10:57,575 : INFO :  Test_Login_Params : test_login_params_3 : 22 : clicking on login button
+2024-08-04 19:10:57,654 : INFO :  Test_Login_Params : test_login_params_3 : 24 : Validating login
+2024-08-04 19:11:15,594 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 19:11:15,594 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 19:11:15,594 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin1
+2024-08-04 19:11:16,313 : INFO :  Test_Login_Params : test_login_params_3 : 20 : Entering Password= admin123
+2024-08-04 19:11:16,418 : INFO :  Test_Login_Params : test_login_params_3 : 22 : clicking on login button
+2024-08-04 19:11:16,498 : INFO :  Test_Login_Params : test_login_params_3 : 24 : Validating login
+2024-08-04 19:11:50,264 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 19:11:50,265 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 19:11:50,265 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin
+2024-08-04 19:11:51,012 : INFO :  Test_Login_Params : test_login_params_3 : 20 : Entering Password= admin1231
+2024-08-04 19:11:51,122 : INFO :  Test_Login_Params : test_login_params_3 : 22 : clicking on login button
+2024-08-04 19:11:51,203 : INFO :  Test_Login_Params : test_login_params_3 : 24 : Validating login
+2024-08-04 19:12:25,307 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 19:12:25,307 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 19:12:25,307 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin1
+2024-08-04 19:12:25,995 : INFO :  Test_Login_Params : test_login_params_3 : 20 : Entering Password= admin1231
+2024-08-04 19:12:26,101 : INFO :  Test_Login_Params : test_login_params_3 : 22 : clicking on login button
+2024-08-04 19:12:26,181 : INFO :  Test_Login_Params : test_login_params_3 : 24 : Validating login
+2024-08-04 19:22:22,982 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 19:22:22,998 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 19:22:22,998 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin
+2024-08-04 19:22:23,605 : INFO :  Test_Login_Params : test_login_params_3 : 20 : Entering Password= admin123
+2024-08-04 19:22:23,705 : INFO :  Test_Login_Params : test_login_params_3 : 22 : clicking on login button
+2024-08-04 19:22:23,775 : INFO :  Test_Login_Params : test_login_params_3 : 24 : Validating login
+2024-08-04 19:22:39,087 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 19:22:39,087 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 19:22:39,087 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin1
+2024-08-04 19:22:39,771 : INFO :  Test_Login_Params : test_login_params_3 : 20 : Entering Password= admin123
+2024-08-04 19:22:39,857 : INFO :  Test_Login_Params : test_login_params_3 : 22 : clicking on login button
+2024-08-04 19:22:39,937 : INFO :  Test_Login_Params : test_login_params_3 : 24 : Validating login
+2024-08-04 19:23:13,322 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 19:23:13,322 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 19:23:13,323 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin
+2024-08-04 19:23:13,966 : INFO :  Test_Login_Params : test_login_params_3 : 20 : Entering Password= admin1231
+2024-08-04 19:23:14,076 : INFO :  Test_Login_Params : test_login_params_3 : 22 : clicking on login button
+2024-08-04 19:23:14,160 : INFO :  Test_Login_Params : test_login_params_3 : 24 : Validating login
+2024-08-04 19:23:48,700 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 19:23:48,700 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 19:23:48,700 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin1
+2024-08-04 19:23:50,335 : INFO :  Test_Login_Params : test_login_params_3 : 20 : Entering Password= admin1231
+2024-08-04 19:23:50,454 : INFO :  Test_Login_Params : test_login_params_3 : 22 : clicking on login button
+2024-08-04 19:23:50,528 : INFO :  Test_Login_Params : test_login_params_3 : 24 : Validating login
+2024-08-04 22:04:01,579 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 22:04:01,579 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 22:04:01,579 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin1
+2024-08-04 22:13:23,745 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 22:13:23,745 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 22:13:23,745 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin
+2024-08-04 22:20:43,596 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 22:20:43,596 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 22:20:43,596 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin
+2024-08-04 22:21:09,167 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 22:21:09,167 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 22:21:09,167 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin1
+2024-08-04 22:21:28,128 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 22:21:28,128 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 22:21:28,128 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin
+2024-08-04 22:21:57,643 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 22:21:57,643 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 22:21:57,643 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin1
+2024-08-04 22:21:58,660 : INFO :  Test_Login_Params : test_login_params_3 : 20 : Entering Password= admin1231
+2024-08-04 22:21:58,785 : INFO :  Test_Login_Params : test_login_params_3 : 22 : clicking on login button
+2024-08-04 22:22:00,217 : INFO :  Test_Login_Params : test_login_params_3 : 24 : Validating login
+2024-08-04 22:27:40,660 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 22:27:40,660 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 22:27:40,660 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin
+2024-08-04 22:27:42,494 : INFO :  Test_Login_Params : test_login_params_3 : 20 : Entering Password= admin123
+2024-08-04 22:27:42,603 : INFO :  Test_Login_Params : test_login_params_3 : 22 : clicking on login button
+2024-08-04 22:27:42,676 : INFO :  Test_Login_Params : test_login_params_3 : 24 : Validating login
+2024-08-04 22:28:29,067 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 22:28:29,067 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 22:28:29,067 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin1
+2024-08-04 22:28:30,309 : INFO :  Test_Login_Params : test_login_params_3 : 20 : Entering Password= admin123
+2024-08-04 22:28:30,418 : INFO :  Test_Login_Params : test_login_params_3 : 22 : clicking on login button
+2024-08-04 22:28:30,496 : INFO :  Test_Login_Params : test_login_params_3 : 24 : Validating login
+2024-08-04 22:30:12,726 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 22:30:12,726 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 22:30:12,726 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin
+2024-08-04 22:30:14,302 : INFO :  Test_Login_Params : test_login_params_3 : 20 : Entering Password= admin1231
+2024-08-04 22:30:14,412 : INFO :  Test_Login_Params : test_login_params_3 : 22 : clicking on login button
+2024-08-04 22:30:20,933 : INFO :  Test_Login_Params : test_login_params_3 : 24 : Validating login
+2024-08-04 22:31:33,696 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 22:31:33,696 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 22:31:33,696 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin1
+2024-08-04 22:31:34,812 : INFO :  Test_Login_Params : test_login_params_3 : 20 : Entering Password= admin1231
+2024-08-04 22:31:34,921 : INFO :  Test_Login_Params : test_login_params_3 : 22 : clicking on login button
+2024-08-04 22:31:39,060 : INFO :  Test_Login_Params : test_login_params_3 : 24 : Validating login
+2024-08-04 22:36:15,524 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 22:36:15,524 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 22:36:15,524 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin
+2024-08-04 22:36:16,700 : INFO :  Test_Login_Params : test_login_params_3 : 20 : Entering Password= admin123
+2024-08-04 22:36:16,827 : INFO :  Test_Login_Params : test_login_params_3 : 22 : clicking on login button
+2024-08-04 22:36:22,279 : INFO :  Test_Login_Params : test_login_params_3 : 24 : Validating login
+2024-08-04 22:37:04,200 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 22:37:04,200 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 22:37:04,200 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin1
+2024-08-04 22:37:08,830 : INFO :  Test_Login_Params : test_login_params_3 : 20 : Entering Password= admin123
+2024-08-04 22:37:08,944 : INFO :  Test_Login_Params : test_login_params_3 : 22 : clicking on login button
+2024-08-04 22:37:09,007 : INFO :  Test_Login_Params : test_login_params_3 : 24 : Validating login
+2024-08-04 22:38:55,305 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 22:38:55,305 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 22:38:55,305 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin
+2024-08-04 22:38:57,175 : INFO :  Test_Login_Params : test_login_params_3 : 20 : Entering Password= admin1231
+2024-08-04 22:38:57,285 : INFO :  Test_Login_Params : test_login_params_3 : 22 : clicking on login button
+2024-08-04 22:39:08,074 : INFO :  Test_Login_Params : test_login_params_3 : 24 : Validating login
+2024-08-04 22:40:36,366 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 22:40:36,366 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 22:40:36,366 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin1
+2024-08-04 22:40:39,777 : INFO :  Test_Login_Params : test_login_params_3 : 20 : Entering Password= admin1231
+2024-08-04 22:40:39,871 : INFO :  Test_Login_Params : test_login_params_3 : 22 : clicking on login button
+2024-08-04 22:40:39,950 : INFO :  Test_Login_Params : test_login_params_3 : 24 : Validating login
+2024-08-04 22:50:00,128 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 22:50:00,187 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 22:50:00,187 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin
+2024-08-04 22:50:02,829 : INFO :  Test_Login_Params : test_login_params_3 : 20 : Entering Password= admin123
+2024-08-04 22:50:02,958 : INFO :  Test_Login_Params : test_login_params_3 : 22 : clicking on login button
+2024-08-04 22:50:03,037 : INFO :  Test_Login_Params : test_login_params_3 : 24 : Validating login
+2024-08-04 22:50:56,031 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 22:50:56,031 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 22:50:56,031 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin1
+2024-08-04 22:50:58,481 : INFO :  Test_Login_Params : test_login_params_3 : 20 : Entering Password= admin123
+2024-08-04 22:50:58,607 : INFO :  Test_Login_Params : test_login_params_3 : 22 : clicking on login button
+2024-08-04 22:51:03,022 : INFO :  Test_Login_Params : test_login_params_3 : 24 : Validating login
+2024-08-04 22:52:33,810 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 22:52:33,810 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 22:52:33,810 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin
+2024-08-04 22:52:35,110 : INFO :  Test_Login_Params : test_login_params_3 : 20 : Entering Password= admin1231
+2024-08-04 22:52:35,235 : INFO :  Test_Login_Params : test_login_params_3 : 22 : clicking on login button
+2024-08-04 22:52:35,313 : INFO :  Test_Login_Params : test_login_params_3 : 24 : Validating login
+2024-08-04 22:54:31,604 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 22:54:31,604 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 22:54:31,604 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin1
+2024-08-04 22:54:34,234 : INFO :  Test_Login_Params : test_login_params_3 : 20 : Entering Password= admin1231
+2024-08-04 22:54:34,359 : INFO :  Test_Login_Params : test_login_params_3 : 22 : clicking on login button
+2024-08-04 22:54:48,629 : INFO :  Test_Login_Params : test_login_params_3 : 24 : Validating login
+2024-08-04 23:03:34,881 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 16 : test_login_params_3 is started
+2024-08-04 23:03:34,881 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 18 : Opening browser
+2024-08-04 23:04:03,652 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 16 : test_login_params_3 is started
+2024-08-04 23:04:03,652 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 18 : Opening browser
+2024-08-04 23:04:25,768 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 16 : test_login_params_3 is started
+2024-08-04 23:04:25,768 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 18 : Opening browser
+2024-08-04 23:04:47,489 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 16 : test_login_params_3 is started
+2024-08-04 23:04:47,489 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 18 : Opening browser
+2024-08-04 23:14:08,503 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 23:14:08,896 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 23:14:08,896 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin
+2024-08-04 23:14:10,436 : INFO :  Test_Login_Params : test_login_params_3 : 20 : Entering Password= admin123
+2024-08-04 23:14:10,586 : INFO :  Test_Login_Params : test_login_params_3 : 22 : clicking on login button
+2024-08-04 23:14:14,618 : INFO :  Test_Login_Params : test_login_params_3 : 24 : Validating login
+2024-08-04 23:14:57,106 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 23:14:57,106 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 23:14:57,106 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin1
+2024-08-04 23:14:58,048 : INFO :  Test_Login_Params : test_login_params_3 : 20 : Entering Password= admin123
+2024-08-04 23:14:58,158 : INFO :  Test_Login_Params : test_login_params_3 : 22 : clicking on login button
+2024-08-04 23:14:59,959 : INFO :  Test_Login_Params : test_login_params_3 : 24 : Validating login
+2024-08-04 23:16:32,330 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 23:16:32,330 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 23:16:32,330 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin
+2024-08-04 23:16:34,082 : INFO :  Test_Login_Params : test_login_params_3 : 20 : Entering Password= admin1231
+2024-08-04 23:16:34,191 : INFO :  Test_Login_Params : test_login_params_3 : 22 : clicking on login button
+2024-08-04 23:16:41,136 : INFO :  Test_Login_Params : test_login_params_3 : 24 : Validating login
+2024-08-04 23:18:06,442 : INFO :  Test_Login_Params : test_login_params_3 : 12 : test_login_params_3 is started
+2024-08-04 23:18:06,442 : INFO :  Test_Login_Params : test_login_params_3 : 14 : Opening browser
+2024-08-04 23:18:06,442 : INFO :  Test_Login_Params : test_login_params_3 : 18 : Entering username= Admin1
+2024-08-04 23:18:08,958 : INFO :  Test_Login_Params : test_login_params_3 : 20 : Entering Password= admin1231
+2024-08-04 23:18:09,083 : INFO :  Test_Login_Params : test_login_params_3 : 22 : clicking on login button
+2024-08-04 23:18:14,307 : INFO :  Test_Login_Params : test_login_params_3 : 24 : Validating login
+2024-08-04 23:20:09,609 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 16 : test_login_params_3 is started
+2024-08-04 23:20:09,609 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 18 : Opening browser
+2024-08-04 23:21:00,253 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 16 : test_login_params_3 is started
+2024-08-04 23:21:00,253 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 18 : Opening browser
+2024-08-04 23:21:35,431 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 16 : test_login_params_3 is started
+2024-08-04 23:21:35,431 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 18 : Opening browser
+2024-08-04 23:22:12,913 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 16 : test_login_params_3 is started
+2024-08-04 23:22:12,913 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 18 : Opening browser
+2024-08-04 23:24:30,187 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 16 : test_login_params_3 is started
+2024-08-04 23:24:30,188 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 18 : Opening browser
+2024-08-04 23:24:47,373 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 16 : test_login_params_3 is started
+2024-08-04 23:24:47,373 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 18 : Opening browser
+2024-08-04 23:25:09,375 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 16 : test_login_params_3 is started
+2024-08-04 23:25:09,375 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 18 : Opening browser
+2024-08-04 23:25:36,883 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 16 : test_login_params_3 is started
+2024-08-04 23:25:36,883 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 18 : Opening browser
+2024-08-06 12:45:31,782 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 16 : test_login_params_3 is started
+2024-08-06 12:45:31,848 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 18 : Opening browser
+2024-08-06 12:45:56,034 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 16 : test_login_params_3 is started
+2024-08-06 12:45:56,034 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 18 : Opening browser
+2024-08-06 12:46:10,083 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 16 : test_login_params_3 is started
+2024-08-06 12:46:10,083 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 18 : Opening browser
+2024-08-06 12:46:33,240 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 16 : test_login_params_3 is started
+2024-08-06 12:46:33,240 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 18 : Opening browser
+2024-08-06 12:54:21,435 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 16 : test_login_params_3 is started
+2024-08-06 12:54:21,467 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 18 : Opening browser
+2024-08-06 12:54:40,657 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 16 : test_login_params_3 is started
+2024-08-06 12:54:40,657 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 18 : Opening browser
+2024-08-06 12:55:01,134 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 16 : test_login_params_3 is started
+2024-08-06 12:55:01,134 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 18 : Opening browser
+2024-08-06 12:55:23,160 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 16 : test_login_params_3 is started
+2024-08-06 12:55:23,160 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 18 : Opening browser
+2024-08-06 13:15:53,684 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 16 : test_login_params_3 is started
+2024-08-06 13:15:53,853 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 18 : Opening browser
+2024-08-06 13:16:15,485 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 16 : test_login_params_3 is started
+2024-08-06 13:16:15,485 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 18 : Opening browser
+2024-08-06 13:16:35,179 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 16 : test_login_params_3 is started
+2024-08-06 13:16:35,179 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 18 : Opening browser
+2024-08-06 13:16:54,672 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 16 : test_login_params_3 is started
+2024-08-06 13:16:54,672 : INFO :  Test_Login_DDT : test_OrangeHRM_Login_DDT__4 : 18 : Opening browser
+2024-08-06 14:04:56,300 : INFO :  Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 13 : test_OrangeHRM_Login_DDT_004 is started
+2024-08-06 14:04:56,318 : INFO :  Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 15 : Opening the browser
+2024-08-06 14:04:56,457 : INFO :  Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin
+2024-08-06 14:04:57,189 : INFO :  Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 32 : Entering Password-->admin123
+2024-08-06 14:04:57,342 : INFO :  Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 35 : Clicking on login button
+2024-08-06 14:05:00,478 : INFO :  Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 38 : Verifying the login status
+2024-08-06 14:05:03,006 : INFO :  Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin1
+2024-08-06 14:07:14,814 : INFO :  Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 13 : test_OrangeHRM_Login_DDT_004 is started
+2024-08-06 14:07:14,815 : INFO :  Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 15 : Opening the browser
+2024-08-06 14:07:14,845 : INFO :  Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin
+2024-08-06 14:07:15,461 : INFO :  Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 32 : Entering Password-->admin123
+2024-08-06 14:07:15,570 : INFO :  Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 35 : Clicking on login button
+2024-08-06 14:07:18,682 : INFO :  Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 38 : Verifying the login status
+2024-08-06 14:07:21,314 : INFO :  Test_OrangeHRM_Login_DDT : test_OrangeHRM_Login_DDT_004 : 29 : Entering Username-->Admin1
+2024-08-06 22:33:03,031 : INFO :  Test_Add_Emp : test_add_emp : 17 : Openeing browser
+2024-08-06 22:33:05,189 : INFO :  Test_Add_Emp : test_add_emp : 21 : Entering Username
+2024-08-06 22:33:06,443 : INFO :  Test_Add_Emp : test_add_emp : 23 : Entering password
+2024-08-06 22:33:08,559 : INFO :  Test_Add_Emp : test_add_emp : 26 : clicking on login page
+2024-08-06 22:33:08,559 : INFO :  Test_Add_Emp : test_add_emp : 27 : Click on login button
+2024-08-06 22:33:13,453 : INFO :  Test_Add_Emp : test_add_emp : 30 : pim buton
+2024-08-06 22:33:13,453 : INFO :  Test_Add_Emp : test_add_emp : 31 : Click on PIM Button
+2024-08-06 22:33:15,454 : INFO :  Test_Add_Emp : test_add_emp : 34 : enetring 1st name
+2024-08-06 22:35:00,210 : INFO :  Test_Add_Emp : test_add_emp : 17 : Openeing browser
+2024-08-06 22:35:02,217 : INFO :  Test_Add_Emp : test_add_emp : 21 : Entering Username
+2024-08-06 22:35:02,363 : INFO :  Test_Add_Emp : test_add_emp : 23 : Entering password
+2024-08-06 22:35:04,491 : INFO :  Test_Add_Emp : test_add_emp : 26 : clicking on login page
+2024-08-06 22:35:04,491 : INFO :  Test_Add_Emp : test_add_emp : 27 : Click on login button
+2024-08-06 22:35:06,693 : INFO :  Test_Add_Emp : test_add_emp : 30 : pim button
+2024-08-06 22:35:06,693 : INFO :  Test_Add_Emp : test_add_emp : 31 : Click on PIM Button
+2024-08-06 22:35:08,693 : INFO :  Test_Add_Emp : test_add_emp : 34 : enetring 1st name
+2024-08-06 22:40:22,628 : INFO :  Test_Add_Emp : test_add_emp : 17 : Opening browser
+2024-08-06 22:40:24,636 : INFO :  Test_Add_Emp : test_add_emp : 21 : Entering Username
+2024-08-06 22:40:24,721 : INFO :  Test_Add_Emp : test_add_emp : 23 : Entering password
+2024-08-06 22:40:26,847 : INFO :  Test_Add_Emp : test_add_emp : 26 : clicking on login page
+2024-08-06 22:40:26,847 : INFO :  Test_Add_Emp : test_add_emp : 27 : Click on login button
+2024-08-06 22:40:29,020 : INFO :  Test_Add_Emp : test_add_emp : 30 : pim button
+2024-08-06 22:45:43,756 : INFO :  Test_Add_Emp : test_add_emp : 17 : Opening browser
+2024-08-06 22:45:45,765 : INFO :  Test_Add_Emp : test_add_emp : 21 : Entering Username
+2024-08-06 22:45:45,910 : INFO :  Test_Add_Emp : test_add_emp : 23 : Entering password
+2024-08-06 22:45:48,048 : INFO :  Test_Add_Emp : test_add_emp : 26 : clicking on login page
+2024-08-06 22:45:48,048 : INFO :  Test_Add_Emp : test_add_emp : 27 : Click on login button
+2024-08-06 22:45:50,230 : INFO :  Test_Add_Emp : test_add_emp : 30 : pim button
+2024-08-06 22:50:53,104 : INFO :  Test_Add_Emp : test_add_emp : 17 : Opening browser
+2024-08-06 22:50:55,104 : INFO :  Test_Add_Emp : test_add_emp : 21 : Entering Username
+2024-08-06 22:50:55,306 : INFO :  Test_Add_Emp : test_add_emp : 23 : Entering password
+2024-08-06 22:50:57,431 : INFO :  Test_Add_Emp : test_add_emp : 26 : clicking on login page
+2024-08-06 22:50:57,431 : INFO :  Test_Add_Emp : test_add_emp : 27 : Click on login button
+2024-08-06 22:50:59,623 : INFO :  Test_Add_Emp : test_add_emp : 32 : clicking on pim button
+2024-08-06 22:59:40,274 : INFO :  Test_Add_Emp : test_add_emp : 18 : Opening browser
+2024-08-06 22:59:42,325 : INFO :  Test_Add_Emp : test_add_emp : 22 : Entering Username
+2024-08-06 22:59:42,971 : INFO :  Test_Add_Emp : test_add_emp : 24 : Entering password
+2024-08-06 22:59:45,068 : INFO :  Test_Add_Emp : test_add_emp : 27 : clicking on login page
+2024-08-06 22:59:45,068 : INFO :  Test_Add_Emp : test_add_emp : 28 : Click on login button
+2024-08-06 23:02:40,010 : INFO :  Test_Add_Emp : test_add_emp : 20 : Opening browser
+2024-08-06 23:02:42,019 : INFO :  Test_Add_Emp : test_add_emp : 24 : Entering Username
+2024-08-06 23:02:42,193 : INFO :  Test_Add_Emp : test_add_emp : 26 : Entering password
+2024-08-06 23:02:44,393 : INFO :  Test_Add_Emp : test_add_emp : 29 : Clicking on login button
+2024-08-08 13:13:02,148 : INFO :  Test_Add_Emp : test_add_emp : 20 : Opening browser
+2024-08-08 13:13:04,181 : INFO :  Test_Add_Emp : test_add_emp : 24 : Entering Username
+2024-08-08 13:13:04,295 : INFO :  Test_Add_Emp : test_add_emp : 26 : Entering password
+2024-08-08 13:13:06,621 : INFO :  Test_Add_Emp : test_add_emp : 29 : Clicking on login button
